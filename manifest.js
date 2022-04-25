@@ -9,11 +9,11 @@
     "description":"This is a PWA tutorial.",
     "icons":[
     {
-    "src":"/img/favicon.png", 
+    "src":"website/img/favicon.png", 
     "type":"image/png"
     },
     {
-    "src":"/img/favicon.png",
+    "src":"website/img/favicon.png",
     "type":"image/png"
     }
 ]
